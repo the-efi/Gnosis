@@ -1,12 +1,5 @@
-The most current distutils release is available as:
-
-   http://gnosis.cx/download/Gnosis_Utils-current.tar.gz
-
-This directory may contain more up-to-date versions of some files.
-
-----------------------------------------------------------------------
-BACKGROUND:  Gnosis Utilities contains a number of Python libraries,
-most (but not all) related to working with XML.  These include:
+Gnosis Utilities contains a number of Python libraries,
+most (but not all) related to working with XML. These include:
 
     gnosis.xml.pickle       (XML pickling of Python objects)
     gnosis.xml.objectify    (Any XML to "native" Python objects)
@@ -22,6 +15,5 @@ most (but not all) related to working with XML.  These include:
     gnosis.util.introspect  (Introspect Python objects)
     gnosis.magic            (Multimethods, metaclasses, etc)
 
-...and so much more! :-)
-
-
+All credit goes to David Mertz as the original author of Gnosis
+  http://gnosis.cx/publish/tech_index_cp.html
