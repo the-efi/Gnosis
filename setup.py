@@ -26,9 +26,9 @@ setup(
         'gnosis.magic'
     ],
     url='http://github.com/smokedice/Objectify',
-    license='LICENSE.txt',
+    license='Creative Commons Attribution 3.0 Unported',
     description='Parses XML into Python object representation',
-#    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
 #    install_requires=[
 #        "Django >= 1.1.1",
 #        "caldav == 0.1.4",
