@@ -25,7 +25,7 @@ setup(
         'gnosis.xml.pickle.test',
         'gnosis.magic'
     ],
-    url='http://github.com/smokedice/Objectify',
+    url='http://github.com/smokedice/Gnosis',
     license='Creative Commons Attribution 3.0 Unported',
     description='Parses XML into Python object representation',
     long_description=open('README.rst').read(),
